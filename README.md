@@ -45,6 +45,12 @@ _Object Detection and Face recognisation Project_
 **Languages:** Python (78.7%), CSS (13%), HTML (8.3%)
 
 
+### [Sports-Website](https://github.com/Dharshan201/Sports-Website)
+_A modern sports-themed website project_  
+**Languages:** HTML (93.1%), CSS (6.9%)
+
+---
+
 Thanks for visiting my profile!  
 Feel free to explore my repositories and connect with me for collaboration or just a friendly chat.
 
