@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dharshan201!
+# 👋 Hi there, I'm Dharshan!
 
 Welcome to my GitHub profile!  
 passionate about technology, open-source, and building impactful solutions. Here you'll find a collection of my projects, code experiments, and collaborations.
