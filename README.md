@@ -5,8 +5,8 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Dharshan201-A&color=blueviolet)
 
 ## 🔨 What I'm Currently Working On
-- Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
-- AI-powered recommendation system for an e-commerce platform using TensorFlow.
+- AI-powered traffic detection system.
+- front-end development.
 
 ## 🏅 Certifications and Achievements
 - Python Basics - [Hacker Rank](https://www.hackerrank.com/certificates/c0460d1f1f8b)
@@ -35,13 +35,13 @@
 [Resume PDF](https://github.com/Dharshan201/Dharshan201/blob/main/Dharshan_N.pdf)
 
 ## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
+### 1. Sports Website (HTML5,CSS3)
 A Website For a Sports Website using only html and css.
 - **Technologies**: HTML5, CSS3
 - **Features**: Listing products, adding multimedia, hyperlinks.
 - **Live Demo**: [Demo Link](https://github.com/Dharshan201/Sports-Website)
 
-### 3. AI in Traffic and Driver Drowsiness Detection System
+### 2. AI in Traffic and Driver Drowsiness Detection System
 A deep-learning-powered face recognition system for Drowsiness detection.
 - **Technologies**: Python, OpenCV, TensorFlow, Flask
 - **Features**: Face detection, recognition, and Scaling Drowsiness.
@@ -50,7 +50,6 @@ A deep-learning-powered face recognition system for Drowsiness detection.
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
